@@ -17,7 +17,7 @@
 
 </details>
 
-### Apprendre HTML et CSS et créer un site Web
+### ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) Apprendre HTML et CSS et créer un site Web
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
