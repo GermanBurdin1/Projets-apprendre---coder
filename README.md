@@ -127,8 +127,6 @@
 
 </details>
 
-<br>
-<br>
 ### jQuery
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -168,8 +166,7 @@
   </details>
 
 </details>
-<br>
-<br>
+
 ### Apprendre Bootstrap et créer un CV en ligne
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
