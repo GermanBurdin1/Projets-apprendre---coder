@@ -1,4 +1,4 @@
-## Compétences Techniques
+## DESCRIPTION DE LA FORMATION
 
 ### Connaissance Générale du Web
 <details>
@@ -17,48 +17,73 @@
 
 </details>
 
-### HTML5 & CSS3
+### Apprendre HTML et CSS et créer un site Web
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
-- HTML et CSS : Introduction
-- Les bases d'HTML : Syntaxe
-- Les bases d'HTML : Structure d'une page
-- Les bases d'HTML : Paragraphes et Titres
-- Les bases d'HTML : Tags spéciaux
-- Les bases d'HTML : Liens
-- Les bases d'HTML : Images
-- Les bases d'HTML : Listes
-- Les bases d'HTML : Attribut style
-- Les bases d'HTML : Divs
-- Les bases d'HTML : Formulaires
-- **Quiz HTML** - 14 questions
+  <details><summary>HTML et CSS: Introduction</summary>
+  <ul>
+    <li>Les bases d'HTML : Syntaxe</li>
+    <li>Les bases d'HTML : Structure d'une page</li>
+    <li>Les bases d'HTML : Paragraphes et Titres</li>
+    <li>Les bases d'HTML : Tags spéciaux</li>
+    <li>Les bases d'HTML : Liens</li>
+    <li>Les bases d'HTML : Images</li>
+    <li>Les bases d'HTML : Listes</li>
+    <li>Les bases d'HTML : Attribut style</li>
+    <li>Les bases d'HTML : Divs</li>
+    <li>Les bases d'HTML : Formulaires</li>
+  </ul>
+  </details>
 
-- Les bases de CSS : Différentes façons d’écrire du CSS
-- Les bases de CSS : Syntaxe
-- Les bases de CSS : Couleurs
-- Les bases de CSS : Unités de mesure
-- Les bases de CSS : Polices
-- Les bases de CSS : Sélecteurs
-- Les bases de CSS : Propriété Display
-- Les bases de CSS : Modèle de la boîte
-- Les bases de CSS : Propriété Float
-- Les bases de CSS : Propriété Position
-- **Quiz CSS** - 14 questions
+  <details><summary>Quiz HTML</summary>
+  <ul>
+    <li>Quiz HTML</li>
+  </ul>
+  </details>
 
-- Projet : Mise en place
-- Projet : Architecture du site
-- Projet : Partie Header
-- Projet : Partie Main Image
-- Projet : Partie Steps
-- Projet : Partie Possibilities
-- Projet : Partie Contact
-- Projet : Partie Footer
-- Bonus : Utiliser Google Chrome pour inspecter et modifier HTML et CSS
+  <details><summary>Les bases de CSS</summary>
+  <ul>
+    <li>Les bases de CSS : Différentes façons d'écrire du CSS</li>
+    <li>Les bases de CSS : Syntaxe</li>
+    <li>Les bases de CSS : Couleurs</li>
+    <li>Les bases de CSS : Unités de mesure</li>
+    <li>Les bases de CSS : Polices</li>
+    <li>Les bases de CSS : Sélecteurs</li>
+    <li>Les bases de CSS : Propriété Display</li>
+    <li>Les bases de CSS : Modèle de la boîte</li>
+    <li>Les bases de CSS : Propriété Float</li>
+    <li>Les bases de CSS : Propriété Position</li>
+  </ul>
+  </details>
 
-  
+  <details><summary>Quiz CSS</summary>
+  <ul>
+    <li>Quiz CSS</li>
+  </ul>
+  </details>
+
+  <details><summary>Projet: Mise en place d'un site Web</summary>
+  <ul>
+    <li>Projet : Mise en place</li>
+    <li>Projet : Architecture du site</li>
+    <li>Projet : Partie Header</li>
+    <li>Projet : Partie Main Image</li>
+    <li>Projet : Partie Steps</li>
+    <li>Projet : Partie Possibilities</li>
+    <li>Projet : Partie Contact</li>
+    <li>Projet : Partie Footer</li>
+  </ul>
+  </details>
+
+  <details><summary>Bonus</summary>
+  <ul>
+    <li>Bonus : Utiliser Google Chrome pour inspecter et modifier HTML et CSS</li>
+  </ul>
+  </details>
 
 </details>
+
 
 ### JavaScript
 <details>
