@@ -85,8 +85,6 @@
 
 </details>
 
-<br>
-<br>
 ### JavaScript
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
