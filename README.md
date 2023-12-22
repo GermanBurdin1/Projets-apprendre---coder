@@ -16,9 +16,8 @@
 
 
 </details>
-
-
-
+<br>
+<br>
 ### Apprendre HTML et CSS et créer un site Web ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 <details>
@@ -87,7 +86,8 @@
 
 </details>
 
-
+<br>
+<br>
 ### JavaScript
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -130,7 +130,8 @@
 
 </details>
 
-
+<br>
+<br>
 ### jQuery
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -170,7 +171,8 @@
   </details>
 
 </details>
-
+<br>
+<br>
 ### Apprendre Bootstrap et créer un CV en ligne
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
