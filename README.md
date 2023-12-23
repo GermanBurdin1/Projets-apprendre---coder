@@ -15,7 +15,7 @@
 - Qui suis-je ?
 
 
-</details> <br><br>
+</details> <br>
 
 ### Apprendre HTML et CSS et créer un site Web ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -83,7 +83,7 @@
   </ul>
   </details>
 
-</details>
+</details> <br>
 
 ### JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 <details>
@@ -125,9 +125,9 @@
   </details>
 
 
-</details>
+</details> <br>
 
-### jQuery
+### jQuery ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
@@ -165,9 +165,9 @@
   </ul>
   </details>
 
-</details>
+</details> <br>
 
-### Apprendre Bootstrap et créer un CV en ligne
+### Apprendre Bootstrap et créer un CV en ligne ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
@@ -219,9 +219,11 @@
   </ul>
   </details>
 
-</details>
+</details> <br>
 
-### Hébergement, noms de domaine et mettre un site en ligne
+### Hébergement, noms de domaine et mettre un site en ligne 
+![FTP](https://img.shields.io/badge/-FTP-007ACC?style=flat&logo=ftp&logoColor=white) ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
+
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
@@ -265,9 +267,10 @@
   </ul>
   </details>
 
-</details>
+</details> <br>
 
 ### Apprendre PHP et créer un formulaire de contact
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
