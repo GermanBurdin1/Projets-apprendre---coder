@@ -129,6 +129,7 @@
 
 ### jQuery ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 <details>
+  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
   <details><summary>jQuery: Introduction</summary>
