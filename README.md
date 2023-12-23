@@ -18,7 +18,8 @@
 </details> <br>
 
 ### Apprendre HTML et CSS et créer un site Web 
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br>
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
@@ -408,7 +409,7 @@
   </ul>
   </details>
 
-</details>
+</details> <br>
 
 
 ### Apprendre WordPress – créer un blog et un site e-commerce
