@@ -1,6 +1,6 @@
 ## DESCRIPTION DE LA FORMATION
 
-### Connaissance Générale du Web
+### Connaissance Générale du Web | 9 sessions • 30 min   
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
 
@@ -17,7 +17,7 @@
 </details> <br>
 ---
 
-### Apprendre HTML et CSS et créer un site Web 
+### Apprendre HTML et CSS et créer un site Web | 31 sessions • 3 h 44 min
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 <details>
@@ -87,7 +87,7 @@
 </details> <br>
 ---
 
-### JavaScript 
+### JavaScript | 27 sessions • 4 h 19 min
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -131,7 +131,7 @@
 </details> <br>
 ---
 
-### jQuery
+### jQuery | 19 sessions • 3 h 23 min
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 <details>
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
@@ -174,7 +174,7 @@
 </details> <br>
 ---
 
-### Apprendre Bootstrap et créer un CV en ligne 
+### Apprendre Bootstrap et créer un CV en ligne | 27 sessions • 4 h 58 min 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -230,7 +230,7 @@
 </details> <br>
 ---
 
-### Hébergement, noms de domaine et mettre un site en ligne 
+### Hébergement, noms de domaine et mettre un site en ligne | 15 sessions • 1 h 20 min
 ![FTP](https://img.shields.io/badge/-FTP-007ACC?style=flat&logo=ftp&logoColor=white) ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
 
 <details>
@@ -279,7 +279,7 @@
 </details> <br>
 ---
 
-### Apprendre PHP et créer un formulaire de contact
+### Apprendre PHP et créer un formulaire de contact | 34 sessions • 6 h 38 min
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -352,7 +352,7 @@
 </details> <br>
 ---
 
-### Apprendre PHP et MySQL et créer un site Web dynamique
+### Apprendre PHP et MySQL et créer un site Web dynamique | 33 sessions • 6 h 38 min
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
@@ -418,7 +418,7 @@
 </details> <br>
 ---
 
-### Apprendre WordPress – créer un blog et un site e-commerce
+### Apprendre WordPress – créer un blog et un site e-commerce | 33 sessions • 5 h 54 min 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 <details>
   <summary>Cliquez pour le contenu complet de cette section</summary>
